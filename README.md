@@ -12,11 +12,16 @@ SECRET=
 
 # Database Source (e.g. user:password@tcp(hostname:3306)/schema_name)
 DB_SOURCE= 
+
+# Server Port (e.g. 3000)
+PORT=
 ```
 
 ### Usage
 - Run Following script in terminal
 ```
-cd server
+cd client
+yarn build
+cd ../server
 go run main.go
 ```

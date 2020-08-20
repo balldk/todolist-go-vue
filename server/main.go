@@ -40,5 +40,5 @@ func main() {
 	apiGroup := e.Group("/api")
 	api.ApiHandler(apiGroup)
 
-	e.Start(":8080")
+	e.Start(":" + os.Getenv("PORT"))
 }
