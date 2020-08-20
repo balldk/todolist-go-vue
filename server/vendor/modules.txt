@@ -1,0 +1,30 @@
+# github.com/alexsasharegan/dotenv v0.0.0-20171113213728-090a4d1b5d42
+github.com/alexsasharegan/dotenv
+# github.com/dgrijalva/jwt-go v3.2.0+incompatible
+github.com/dgrijalva/jwt-go
+# github.com/labstack/echo v3.3.10+incompatible
+github.com/labstack/echo
+# github.com/labstack/gommon v0.3.0
+github.com/labstack/gommon/color
+github.com/labstack/gommon/log
+# github.com/mattn/go-colorable v0.1.7
+github.com/mattn/go-colorable
+# github.com/mattn/go-isatty v0.0.12
+github.com/mattn/go-isatty
+# github.com/valyala/bytebufferpool v1.0.0
+github.com/valyala/bytebufferpool
+# github.com/valyala/fasttemplate v1.2.1
+github.com/valyala/fasttemplate
+# golang.org/x/crypto v0.0.0-20200728195943-123391ffb6de
+golang.org/x/crypto/acme
+golang.org/x/crypto/acme/autocert
+# golang.org/x/net v0.0.0-20200813134508-3edf25e44fcc
+golang.org/x/net/idna
+# golang.org/x/sys v0.0.0-20200814200057-3d37ad5750ed
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+# golang.org/x/text v0.3.3
+golang.org/x/text/secure/bidirule
+golang.org/x/text/transform
+golang.org/x/text/unicode/bidi
+golang.org/x/text/unicode/norm
